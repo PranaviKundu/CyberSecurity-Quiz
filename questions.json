@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does SSL stand for?",
+        "options": ["Secure Sockets Layer", "Secure Software Library", "Simple Secure Layer", "System Security Lock"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which of the following is a type of malware?",
+        "options": ["Phishing", "Trojan Horse", "SQL Injection", "DNS Spoofing"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which protocol is used to securely transfer files?",
+        "options": ["HTTP", "FTP", "SFTP", "SMTP"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the primary purpose of a firewall?",
+        "options": ["To encrypt data", "To block unauthorized access", "To manage file storage", "To speed up a network"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of the following is considered a strong password?",
+        "options": ["123456", "password", "P@ssw0rd2023!", "qwerty"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What does the term 'phishing' refer to?",
+        "options": [
+            "A method of securely transferring files",
+            "A type of email scam",
+            "A security feature in browsers",
+            "A way to back up data"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of these is NOT an example of multi-factor authentication?",
+        "options": [
+            "Password + OTP",
+            "Password + Biometric",
+            "Password + Security Question",
+            "Password only"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What is the purpose of encryption?",
+        "options": [
+            "To compress data",
+            "To make data unreadable without a key",
+            "To store data in the cloud",
+            "To create a backup of data"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the term for the practice of attempting to gain unauthorized access to a system by guessing passwords?",
+        "options": ["Phishing", "Brute Force Attack", "Spoofing", "Man-in-the-Middle"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which organization is responsible for coordinating internet domain names and IP addresses?",
+        "options": ["ICANN", "ISO", "IEEE", "W3C"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What does the 'CIA' triad in cybersecurity stand for?",
+        "options": [
+            "Confidentiality, Integrity, Availability",
+            "Confidentiality, Intelligence, Accessibility",
+            "Central Intelligence Agency",
+            "Control, Identity, Access"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which of the following is an example of a social engineering attack?",
+        "options": ["Phishing email", "DDoS attack", "SQL injection", "Packet sniffing"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the main purpose of two-factor authentication?",
+        "options": [
+            "To allow users to reset passwords",
+            "To add an extra layer of security",
+            "To speed up login times",
+            "To enable single sign-on"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is a VPN primarily used for?",
+        "options": [
+            "Compressing data",
+            "Creating secure connections over public networks",
+            "Improving network speed",
+            "Blocking pop-ups"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the main goal of a Denial of Service (DoS) attack?",
+        "options": [
+            "To steal data from a server",
+            "To prevent access to a system or service",
+            "To inject malicious code into a website",
+            "To bypass encryption"
+        ],
+        "correctAnswer": 1
+    }
+]

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cybersecurity Quiz</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="quiz-container">
+        <h1>Cybersecurity Quiz</h1>
+        <!-- Quiz Section -->
+        <div id="quiz-section" class="hidden">
+            <div id="question" class="question-text"></div>
+            <div id="options" class="options-container"></div>
+            <button id="nextBtn" class="hidden">Next</button>
+        </div>
+
+        <!-- Start Section -->
+        <div id="start-section">
+            <button id="startBtn">Start Quiz</button>
+        </div>
+
+        <!-- Leaderboard Section -->
+        <div id="leaderboard-section" class="hidden">
+            <h2>Leaderboard</h2>
+            <ul id="leaderboard"></ul>
+            <button id="restartBtn">Restart Quiz</button>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
